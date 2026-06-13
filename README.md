@@ -1,16 +1,23 @@
-# Intro
+# Yuqi Liu's Portfolio
 
-Hi! I'm Yuqi, a Computer Science student at the University of Toronto Mississauga.
-I built this website as a place to share some of the projects and things I've worked on, from programming to AI art and other creative ideas. 
-It's also a way for me to document what I'm learning and connect with people who have similar interests.
+Hi, I'm Yuqi! I'm a Computer Science student at UofT Mississauga.
 
-# Built With
+This repository contains the source code for my personal website, where I share my projects and interests.
+
+## Built With
 
 - HTML
 - CSS
 - JavaScript
 
-# Connect
+## What's Here
+
+- About me
+- Personal projects
+- Creative work
+- Contact information
+
+## Connect
 
 GitHub:
 https://github.com/uncertain6
